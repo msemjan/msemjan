@@ -26,6 +26,9 @@ Here are few of my personal projects:
   - A simple script that fetches buy and sell prices of a couple of selected crypto currencies using Coinbase API
   - This way you can watch how bad your investment in crypto was from the comfort of your terminal 
   - Written in Python
+- [Scraping historical prices of crypto](https://github.com/msemjan/scraping_coinmarketcap)
+  - A web scraping project to obtain historical prices of crypto from CoinMarketCap
+  - Written in Python, uses BeautifulSoup4
 
 
 <!---
