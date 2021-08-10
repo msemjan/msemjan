@@ -4,6 +4,7 @@
 Here are few of my personal projects:
 - [GPGPU implementation of the Metropolis Algorithm](https://github.com/msemjan/MC_MA_IAKL)
   - My implementation of the Metropolis Algorithm for the Ising model on the kagome lattice in CUDA parallel programming framework
+  - Written in CUDA C++
 - [KMeans](https://github.com/msemjan/kmeans) 
   - My implementation of KMeans clustering algorithm from scratch 
   - Written in C++
@@ -29,7 +30,8 @@ Here are few of my personal projects:
 - [Scraping historical prices of crypto](https://github.com/msemjan/scraping_coinmarketcap)
   - A web scraping project to obtain historical prices of crypto from CoinMarketCap
   - Written in Python, uses BeautifulSoup4
-
+- [Blog in Java](https://github.com/msemjan/YouSpace)
+  - A simple Java project using Spring-Boot and MongoDB
 
 <!---
 msemjan/msemjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
