@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @msemjan
 - 👀 I’m interested in data science, programming and physics
+- 📖 I am currently learning Node.js, Typescript, Prisma, and GraphQL for work and Golang for fun
 
 Here are few of my personal projects:
 - [GPGPU implementation of the Metropolis Algorithm](https://github.com/msemjan/MC_MA_IAKL)
