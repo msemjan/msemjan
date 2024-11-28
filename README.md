@@ -86,7 +86,7 @@ Here are few of my personal projects:
 
 - [Monte Carlo Simulations](https://github.com/msemjan/monte-carlo-simulations)
   - A collection of various code that I've use during my scientific career
-  - Includes my implementation of the Metropolis Algorithm for the Ising model on the vertically stacked 3D and 2D kagome lattice with general spin-$S$, including $S=\infty$ in CUDA parallel programming framework
+  - Includes my implementation of the Metropolis Algorithm for the Ising model on the vertically stacked 3D and 2D kagome lattice with general spin-_S_, including _S_=∞ in CUDA parallel programming framework
   - Written in CUDA, C++, and Matlab
 - [KMeans](https://github.com/msemjan/kmeans) 
   - My implementation of KMeans clustering algorithm from scratch 
